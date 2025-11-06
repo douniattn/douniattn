@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/douniattn/douniattn/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/douniattn/douniattn/main/dist/github-contribution-grid-snake.svg)
 
 
 
